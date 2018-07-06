@@ -6,3 +6,4 @@ dependencies: []
 files:
 - ruby-2.5.0.tar.gz   # https://cache.ruby-lang.org/pub/ruby/2.5/ruby-2.5.0.tar.gz
 - rubygems-2.7.7.tgz  # https://rubygems.org/rubygems/rubygems-2.7.7.tgz
+- bundler-1.16.2.gem  # https://rubygems.org/downloads/bundler-1.16.2.gem
