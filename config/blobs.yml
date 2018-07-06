@@ -1,1 +1,6 @@
---- {}
+ruby-2.5.0.tar.gz:
+  size: 15834941
+  sha: 58f77301c891c1c4a08f301861c26b1ea46509f6
+rubygems-2.7.7.tgz:
+  size: 915847
+  sha: 2ee981e5e8331071b29e7599f9b45ae2d79ed975
