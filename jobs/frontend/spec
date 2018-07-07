@@ -6,7 +6,7 @@ templates:
 
 packages:
   - frontend
-  - ruby_2.5.0
+  - ruby_2.4.1
 
 properties:
   frontend.port:

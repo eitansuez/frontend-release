@@ -1,9 +1,9 @@
-bundler-1.16.2.gem:
-  size: 352768
-  sha: 071ba210ecac1cf24b2af0d99858bb0669ed0718
-ruby-2.5.0.tar.gz:
-  size: 15834941
-  sha: 58f77301c891c1c4a08f301861c26b1ea46509f6
-rubygems-2.7.7.tgz:
-  size: 915847
-  sha: 2ee981e5e8331071b29e7599f9b45ae2d79ed975
+bundler-1.15.3.gem:
+  size: 336384
+  sha: bd1e1ba80789ea013a11a2909a154dcee118ebbc
+ruby-2.4.1.tar.gz:
+  size: 14174752
+  sha: 47909a0f77ea900573f027d27746960ad6d07d15
+rubygems-2.6.12.tgz:
+  size: 767895
+  sha: 5ffe5a8c3fdbefdc8b5b6bcc67d059fe9b76b954
